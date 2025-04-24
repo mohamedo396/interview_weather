@@ -19,4 +19,4 @@ Before you begin, make sure you have the following installed:
 Clone the repository to your local machine:
 ```bash
 git clone https://github.com/mohamedo396/interview_weather
-cd weather-app
+
